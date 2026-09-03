@@ -81,7 +81,6 @@ The dataset is imbalanced, with significantly fewer employees leaving than stayi
 * **Scikit-learn**
 * **Matplotlib**
 * **Seaborn**
-* **OpenPyXL**
 * **Joblib**
 
 ---
