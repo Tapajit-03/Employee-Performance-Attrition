@@ -1,0 +1,35 @@
+EMPLOYEE ATTRITION ANALYSIS - BUSINESS INSIGHTS
+=======================================================
+
+Total employees analyzed: 1470
+Employees who left: 237
+Overall attrition rate: 16.12%
+
+
+1. OVERTIME RISK
+Employees working overtime had an attrition rate of 30.53%.
+Employees without overtime had an attrition rate of 10.44%.
+Recommendation: HR should monitor overtime workloads and investigate whether excessive work hours are contributing to employee turnover.
+
+
+2. DEPARTMENT RISK
+The Sales department had the highest observed attrition rate at 20.63%.
+Recommendation: Management should examine workload, compensation, career progression, and employee satisfaction within higher-risk departments.
+
+
+3. JOB SATISFACTION
+Employees with job satisfaction level 1 had an attrition rate of 22.84%.
+Recommendation: HR could conduct employee feedback surveys and identify workplace factors associated with low job satisfaction.
+
+
+4. MACHINE LEARNING FINDINGS
+The logistic regression model identified overtime, business travel, job role, marital status, job level, and career progression variables among the strongest model-associated features.
+These factors should be treated as indicators for further investigation rather than direct causes of employee attrition.
+
+
+5. MANAGEMENT RECOMMENDATIONS
+• Monitor overtime and workload patterns.
+• Focus retention analysis on higher-risk departments.
+• Investigate low job satisfaction through employee feedback.
+• Review career progression and promotion opportunities.
+• Use the ML model as a decision-support tool rather than as the sole basis for HR decisions.
